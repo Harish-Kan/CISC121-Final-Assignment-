@@ -36,12 +36,15 @@ Not shown :
 The loop variables 
 Internal Counters 
 As well as the memory operations 
+
 Algorithm Design : 
 
 Input : Inside of the Gradio textbox, a list of numbers which are separated by commas 
 Processing :  Bubble Sort is run, it then records every comparison as well as swap 
 Output : Inside of GUI, it shows every step that the algorithm (bubble sort) takes. And in the end it shows the finalized sorted list 
 The user in the end can end up choosing if they want to step through it, or see the full run of it
+
+<img width="519" height="1797" alt="image" src="https://github.com/user-attachments/assets/71ccf163-7fe6-4723-beec-f42b802eeb59" />
 
 ## Steps to Run
 
